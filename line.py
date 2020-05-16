@@ -134,7 +134,6 @@ entry_y2.grid (row = 4, column = 0)
 
 #   button
 Button(my_window, text = "SUBMIT", width = 6, command = hitung) .grid(row = 5, column = 0)
-# Button(my_window, text = "CLEAR", width = 6, command = hapus) .grid(row = 5, column = 1)
 
 #   canvas 
 my_canvas = Canvas(my_window, width = 400, height = 400)
