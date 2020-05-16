@@ -117,6 +117,7 @@ def hitung():
 
 #   ui
 my_window = Tk()
+my_window.title("Cohen Sutherland Algorithm by Zanuar")
 
 #   input
 Label (my_window, text = "Masukan titik x1 : ", fg = "black", font = "none 12").grid(row = 1, column = 0, sticky = W)
